@@ -10,3 +10,5 @@ NLTK is a leading platform for building Python programs to work with human langu
 
 A Naive Bayes classifier is a probabilistic machine learning model that is based on applying [**Bayes' theorem**](https://en.wikipedia.org/wiki/Bayes%27_theorem) with an assumption of independence among predictors.
 
+![bayes theorem](https://miro.medium.com/max/1400/1*LB-G6WBuswEfpg20FMighA.png)
+
